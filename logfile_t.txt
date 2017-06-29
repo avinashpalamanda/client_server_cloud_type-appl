@@ -1,0 +1,11 @@
+Server Started
+Connection from 127.0.0.1 accepted
+Fibonacci Request from FD 127.0.0.1 3000
+Fibonacci for 10 : Fibonacci : 55 
+Send Successful - Fibonacci
+socket fd 127.0.0.1 3000 Left server
+Connection from 127.0.0.1 accepted
+socket fd 127.0.0.1 3000 Left server
+Connection from 127.0.0.1 accepted
+socket fd 127.0.0.1 3000 Left server
+Exiting from Server
